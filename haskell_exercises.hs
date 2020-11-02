@@ -3,7 +3,7 @@ import Data.Char
 import Data.List
 import Test.QuickCheck
 
-
+--hi
 -- 1. Define two functions circ and area that calculate the circumference and the area (respectively) of a circle, if the radius of the circle is r. Use the type Double for arguments and results.
 circ :: Double -> Double 
 circ r = 2 * pi * r
